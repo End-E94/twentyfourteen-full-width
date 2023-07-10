@@ -1,0 +1,8 @@
+/*Apply full width on page content*/
+.site {
+	max-width: 100%;
+}
+/*Apply full width on page header*/
+.site-header {
+	max-width: 100%;
+}
