@@ -35,7 +35,7 @@ require_once 'includes/lib/class-full-width-for-twenty-fourteen-taxonomy.php';
  * @since  1.0.0
  * @return object Full_Width_for_Twenty_Fourteen
  */
-function full_width_for_twenty_fourteen() {
+function fwftf_full_width_for_twenty_fourteen() {
 	$instance = Full_Width_for_Twenty_Fourteen::instance( __FILE__, '1.0.0' );
 
 	if ( is_null( $instance->settings ) ) {
@@ -45,4 +45,4 @@ function full_width_for_twenty_fourteen() {
 	return $instance;
 }
 
-full_width_for_twenty_fourteen();
+fwftf_full_width_for_twenty_fourteen();
