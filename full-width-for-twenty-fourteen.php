@@ -6,7 +6,7 @@
  * Author: Andrija Radojev
  * Author URI: https://radojev.com/
  * Requires at least: 4.0
- * Tested up to: 6.2.2
+ * Tested up to: 6.4.1
  *
  * Text Domain: full-width-for-twenty-fourteen
  * Domain Path: /lang/
