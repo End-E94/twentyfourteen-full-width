@@ -108,7 +108,7 @@ class Full_Width_for_Twenty_Fourteen {
 	 * @param string $file File constructor.
 	 * @param string $version Plugin version.
 	 */
-	public function __construct( $file = '', $version = '1.0.0' ) {
+	public function __construct( $file = '', $version = '1.0.1' ) {
 		$this->_version = $version;
 		$this->_token   = 'full_width_for_twenty_fourteen';
 
