@@ -1,8 +1,8 @@
 === Full Width for Twenty Fourteen ===
 Tags: wordpress, twentyfourteen, responsive
 Requires at least: 4.0
-Tested up to: 6.4.1
-Stable tag: 1.0.0
+Tested up to: 7.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,12 +39,8 @@ Short answer: no. Long answer: If tbeme uses the same classess as the Twenty Fou
 
 == Changelog ==
 
-= 1.0.0 =
-* 2023-4-3
-* Initial release
+= 1.1.1 (2026-05-29) =
+* Tweaked: Confirmed compatibility with WordPress 7.0.
 
-== Upgrade Notice ==
-
-= 1.0.0 =
-* 2023-4-3
-* Initial release
+= 1.0.0 (2023-04-03) =
+* Initial release.
