@@ -229,7 +229,7 @@ public function admin_enqueue_styles() {
 	 * @since 1.0.0
 	 * @static
 	 */
-	public static function instance( $file = '', $version = '1.0.0' ) {
+	public static function instance( $file = '', $version = '1.0.1' ) {
 		if ( is_null( self::$_instance ) ) {
 			self::$_instance = new self( $file, $version );
 		}
